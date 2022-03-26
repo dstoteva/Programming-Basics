@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson5\HalfSumElement\bin\Debug\HalfSumElement.exe.config
+D:\всичко\SoftUni\CSharpLesson5\HalfSumElement\bin\Debug\HalfSumElement.exe
+D:\всичко\SoftUni\CSharpLesson5\HalfSumElement\bin\Debug\HalfSumElement.pdb
+D:\всичко\SoftUni\CSharpLesson5\HalfSumElement\obj\Debug\HalfSumElement.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson5\HalfSumElement\obj\Debug\HalfSumElement.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson5\HalfSumElement\obj\Debug\HalfSumElement.exe
+D:\всичко\SoftUni\CSharpLesson5\HalfSumElement\obj\Debug\HalfSumElement.pdb

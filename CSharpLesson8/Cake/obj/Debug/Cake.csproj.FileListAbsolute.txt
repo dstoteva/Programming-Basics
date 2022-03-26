@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\Cake\bin\Debug\Cake.exe.config
+D:\всичко\SoftUni\CSharpLesson8\Cake\bin\Debug\Cake.exe
+D:\всичко\SoftUni\CSharpLesson8\Cake\bin\Debug\Cake.pdb
+D:\всичко\SoftUni\CSharpLesson8\Cake\obj\Debug\Cake.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson8\Cake\obj\Debug\Cake.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\Cake\obj\Debug\Cake.exe
+D:\всичко\SoftUni\CSharpLesson8\Cake\obj\Debug\Cake.pdb

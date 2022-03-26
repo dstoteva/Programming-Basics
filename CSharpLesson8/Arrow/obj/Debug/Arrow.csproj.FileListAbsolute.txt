@@ -1,0 +1,6 @@
+D:\всичко\SoftUni\CSharpLesson8\Arrow\bin\Debug\Arrow.exe.config
+D:\всичко\SoftUni\CSharpLesson8\Arrow\bin\Debug\Arrow.exe
+D:\всичко\SoftUni\CSharpLesson8\Arrow\bin\Debug\Arrow.pdb
+D:\всичко\SoftUni\CSharpLesson8\Arrow\obj\Debug\Arrow.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\Arrow\obj\Debug\Arrow.exe
+D:\всичко\SoftUni\CSharpLesson8\Arrow\obj\Debug\Arrow.pdb

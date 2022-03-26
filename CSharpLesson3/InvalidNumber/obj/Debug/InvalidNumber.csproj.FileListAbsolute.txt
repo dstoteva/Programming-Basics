@@ -1,0 +1,6 @@
+D:\всичко\SoftUni\CSharpLesson3\InvalidNumber\bin\Debug\InvalidNumber.exe.config
+D:\всичко\SoftUni\CSharpLesson3\InvalidNumber\bin\Debug\InvalidNumber.exe
+D:\всичко\SoftUni\CSharpLesson3\InvalidNumber\bin\Debug\InvalidNumber.pdb
+D:\всичко\SoftUni\CSharpLesson3\InvalidNumber\obj\Debug\InvalidNumber.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson3\InvalidNumber\obj\Debug\InvalidNumber.exe
+D:\всичко\SoftUni\CSharpLesson3\InvalidNumber\obj\Debug\InvalidNumber.pdb

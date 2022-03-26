@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\WorkHours\bin\Debug\WorkHours.exe.config
+D:\всичко\SoftUni\CSharpLesson8\WorkHours\bin\Debug\WorkHours.exe
+D:\всичко\SoftUni\CSharpLesson8\WorkHours\bin\Debug\WorkHours.pdb
+D:\всичко\SoftUni\CSharpLesson8\WorkHours\obj\Debug\WorkHours.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson8\WorkHours\obj\Debug\WorkHours.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\WorkHours\obj\Debug\WorkHours.exe
+D:\всичко\SoftUni\CSharpLesson8\WorkHours\obj\Debug\WorkHours.pdb

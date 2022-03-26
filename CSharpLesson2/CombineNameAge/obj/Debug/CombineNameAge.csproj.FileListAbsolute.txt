@@ -1,0 +1,6 @@
+C:\Users\home\Desktop\CSharpLesson2\CombineNameAge\bin\Debug\CombineNameAge.exe.config
+C:\Users\home\Desktop\CSharpLesson2\CombineNameAge\obj\Debug\CombineNameAge.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\CSharpLesson2\CombineNameAge\bin\Debug\CombineNameAge.exe
+C:\Users\home\Desktop\CSharpLesson2\CombineNameAge\bin\Debug\CombineNameAge.pdb
+C:\Users\home\Desktop\CSharpLesson2\CombineNameAge\obj\Debug\CombineNameAge.exe
+C:\Users\home\Desktop\CSharpLesson2\CombineNameAge\obj\Debug\CombineNameAge.pdb

@@ -1,0 +1,5 @@
+C:\Users\home\Desktop\CSharpLesson2\GreetingsByName\bin\Debug\GreetingsByName.exe.config
+C:\Users\home\Desktop\CSharpLesson2\GreetingsByName\bin\Debug\GreetingsByName.exe
+C:\Users\home\Desktop\CSharpLesson2\GreetingsByName\bin\Debug\GreetingsByName.pdb
+C:\Users\home\Desktop\CSharpLesson2\GreetingsByName\obj\Debug\GreetingsByName.exe
+C:\Users\home\Desktop\CSharpLesson2\GreetingsByName\obj\Debug\GreetingsByName.pdb

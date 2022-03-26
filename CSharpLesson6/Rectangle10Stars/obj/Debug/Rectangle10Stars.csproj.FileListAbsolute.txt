@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson6\Rectangle10Stars\bin\Debug\Rectangle10Stars.exe.config
+D:\всичко\SoftUni\CSharpLesson6\Rectangle10Stars\bin\Debug\Rectangle10Stars.exe
+D:\всичко\SoftUni\CSharpLesson6\Rectangle10Stars\bin\Debug\Rectangle10Stars.pdb
+D:\всичко\SoftUni\CSharpLesson6\Rectangle10Stars\obj\Debug\Rectangle10Stars.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson6\Rectangle10Stars\obj\Debug\Rectangle10Stars.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson6\Rectangle10Stars\obj\Debug\Rectangle10Stars.exe
+D:\всичко\SoftUni\CSharpLesson6\Rectangle10Stars\obj\Debug\Rectangle10Stars.pdb

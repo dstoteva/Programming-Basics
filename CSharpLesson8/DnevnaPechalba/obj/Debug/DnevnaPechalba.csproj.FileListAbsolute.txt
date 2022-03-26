@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\DnevnaPechalba\bin\Debug\DnevnaPechalba.exe.config
+D:\всичко\SoftUni\CSharpLesson8\DnevnaPechalba\bin\Debug\DnevnaPechalba.exe
+D:\всичко\SoftUni\CSharpLesson8\DnevnaPechalba\bin\Debug\DnevnaPechalba.pdb
+D:\всичко\SoftUni\CSharpLesson8\DnevnaPechalba\obj\Debug\DnevnaPechalba.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson8\DnevnaPechalba\obj\Debug\DnevnaPechalba.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\DnevnaPechalba\obj\Debug\DnevnaPechalba.exe
+D:\всичко\SoftUni\CSharpLesson8\DnevnaPechalba\obj\Debug\DnevnaPechalba.pdb

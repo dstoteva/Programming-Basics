@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson4\Journey\bin\Debug\Journey.exe.config
+D:\всичко\SoftUni\CSharpLesson4\Journey\bin\Debug\Journey.exe
+D:\всичко\SoftUni\CSharpLesson4\Journey\bin\Debug\Journey.pdb
+D:\всичко\SoftUni\CSharpLesson4\Journey\obj\Debug\Journey.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson4\Journey\obj\Debug\Journey.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson4\Journey\obj\Debug\Journey.exe
+D:\всичко\SoftUni\CSharpLesson4\Journey\obj\Debug\Journey.pdb

@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson6\Square\bin\Debug\Square.exe.config
+D:\всичко\SoftUni\CSharpLesson6\Square\bin\Debug\Square.exe
+D:\всичко\SoftUni\CSharpLesson6\Square\bin\Debug\Square.pdb
+D:\всичко\SoftUni\CSharpLesson6\Square\obj\Debug\SquareFrame.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson6\Square\obj\Debug\SquareFrame.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson6\Square\obj\Debug\Square.exe
+D:\всичко\SoftUni\CSharpLesson6\Square\obj\Debug\Square.pdb

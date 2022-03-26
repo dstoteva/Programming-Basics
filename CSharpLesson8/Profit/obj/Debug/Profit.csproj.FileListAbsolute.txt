@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\Profit\bin\Debug\Profit.exe.config
+D:\всичко\SoftUni\CSharpLesson8\Profit\bin\Debug\Profit.exe
+D:\всичко\SoftUni\CSharpLesson8\Profit\bin\Debug\Profit.pdb
+D:\всичко\SoftUni\CSharpLesson8\Profit\obj\Debug\Profit.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson8\Profit\obj\Debug\Profit.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\Profit\obj\Debug\Profit.exe
+D:\всичко\SoftUni\CSharpLesson8\Profit\obj\Debug\Profit.pdb

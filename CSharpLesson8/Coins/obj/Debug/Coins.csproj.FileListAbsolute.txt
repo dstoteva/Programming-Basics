@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\Coins\bin\Debug\Coins.exe.config
+D:\всичко\SoftUni\CSharpLesson8\Coins\bin\Debug\Coins.exe
+D:\всичко\SoftUni\CSharpLesson8\Coins\bin\Debug\Coins.pdb
+D:\всичко\SoftUni\CSharpLesson8\Coins\obj\Debug\Coins.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\Coins\obj\Debug\Coins.exe
+D:\всичко\SoftUni\CSharpLesson8\Coins\obj\Debug\Coins.pdb
+D:\всичко\SoftUni\CSharpLesson8\Coins\obj\Debug\Coins.csprojAssemblyReference.cache

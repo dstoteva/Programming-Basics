@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\Styrofoam\bin\Debug\Styrofoam.exe.config
+D:\всичко\SoftUni\CSharpLesson8\Styrofoam\bin\Debug\Styrofoam.exe
+D:\всичко\SoftUni\CSharpLesson8\Styrofoam\bin\Debug\Styrofoam.pdb
+D:\всичко\SoftUni\CSharpLesson8\Styrofoam\obj\Debug\Styrofoam.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson8\Styrofoam\obj\Debug\Styrofoam.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\Styrofoam\obj\Debug\Styrofoam.exe
+D:\всичко\SoftUni\CSharpLesson8\Styrofoam\obj\Debug\Styrofoam.pdb

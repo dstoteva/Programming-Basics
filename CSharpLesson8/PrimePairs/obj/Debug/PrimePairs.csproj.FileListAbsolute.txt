@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\PrimePairs\bin\Debug\PrimePairs.exe.config
+D:\всичко\SoftUni\CSharpLesson8\PrimePairs\bin\Debug\PrimePairs.exe
+D:\всичко\SoftUni\CSharpLesson8\PrimePairs\bin\Debug\PrimePairs.pdb
+D:\всичко\SoftUni\CSharpLesson8\PrimePairs\obj\Debug\PrimePairs.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson8\PrimePairs\obj\Debug\PrimePairs.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\PrimePairs\obj\Debug\PrimePairs.exe
+D:\всичко\SoftUni\CSharpLesson8\PrimePairs\obj\Debug\PrimePairs.pdb

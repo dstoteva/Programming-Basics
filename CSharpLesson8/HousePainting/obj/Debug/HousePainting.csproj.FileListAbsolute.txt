@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\HousePainting\bin\Debug\HousePainting.exe.config
+D:\всичко\SoftUni\CSharpLesson8\HousePainting\bin\Debug\HousePainting.exe
+D:\всичко\SoftUni\CSharpLesson8\HousePainting\bin\Debug\HousePainting.pdb
+D:\всичко\SoftUni\CSharpLesson8\HousePainting\obj\Debug\HousePainting.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson8\HousePainting\obj\Debug\HousePainting.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\HousePainting\obj\Debug\HousePainting.exe
+D:\всичко\SoftUni\CSharpLesson8\HousePainting\obj\Debug\HousePainting.pdb

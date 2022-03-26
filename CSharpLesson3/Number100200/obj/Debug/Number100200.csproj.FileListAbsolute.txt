@@ -1,0 +1,6 @@
+D:\всико\SoftUni\CSharpLesson3\Number100200\bin\Debug\Number100200.exe.config
+D:\всико\SoftUni\CSharpLesson3\Number100200\bin\Debug\Number100200.exe
+D:\всико\SoftUni\CSharpLesson3\Number100200\bin\Debug\Number100200.pdb
+D:\всико\SoftUni\CSharpLesson3\Number100200\obj\Debug\Number100200.csproj.CoreCompileInputs.cache
+D:\всико\SoftUni\CSharpLesson3\Number100200\obj\Debug\Number100200.exe
+D:\всико\SoftUni\CSharpLesson3\Number100200\obj\Debug\Number100200.pdb

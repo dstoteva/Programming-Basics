@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson3\FruitShop\bin\Debug\FruitShop.exe.config
+D:\всичко\SoftUni\CSharpLesson3\FruitShop\bin\Debug\FruitShop.exe
+D:\всичко\SoftUni\CSharpLesson3\FruitShop\bin\Debug\FruitShop.pdb
+D:\всичко\SoftUni\CSharpLesson3\FruitShop\obj\Debug\FruitShop.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson3\FruitShop\obj\Debug\FruitShop.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson3\FruitShop\obj\Debug\FruitShop.exe
+D:\всичко\SoftUni\CSharpLesson3\FruitShop\obj\Debug\FruitShop.pdb

@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\Aquapark\bin\Debug\Aquapark.exe.config
+D:\всичко\SoftUni\CSharpLesson8\Aquapark\bin\Debug\Aquapark.exe
+D:\всичко\SoftUni\CSharpLesson8\Aquapark\bin\Debug\Aquapark.pdb
+D:\всичко\SoftUni\CSharpLesson8\Aquapark\obj\Debug\Aquapark.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson8\Aquapark\obj\Debug\Aquapark.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\Aquapark\obj\Debug\Aquapark.exe
+D:\всичко\SoftUni\CSharpLesson8\Aquapark\obj\Debug\Aquapark.pdb

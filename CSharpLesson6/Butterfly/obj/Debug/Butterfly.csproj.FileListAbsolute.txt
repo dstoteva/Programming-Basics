@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson6\Butterfly\bin\Debug\Butterfly.exe.config
+D:\всичко\SoftUni\CSharpLesson6\Butterfly\bin\Debug\Butterfly.exe
+D:\всичко\SoftUni\CSharpLesson6\Butterfly\bin\Debug\Butterfly.pdb
+D:\всичко\SoftUni\CSharpLesson6\Butterfly\obj\Debug\Butterfly.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson6\Butterfly\obj\Debug\Butterfly.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson6\Butterfly\obj\Debug\Butterfly.exe
+D:\всичко\SoftUni\CSharpLesson6\Butterfly\obj\Debug\Butterfly.pdb

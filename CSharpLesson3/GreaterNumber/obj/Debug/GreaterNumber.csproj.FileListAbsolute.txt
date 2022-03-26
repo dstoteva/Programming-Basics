@@ -1,0 +1,6 @@
+D:\всико\SoftUni\CSharpLesson3\GreaterNumber\bin\Debug\GreaterNumber.exe.config
+D:\всико\SoftUni\CSharpLesson3\GreaterNumber\bin\Debug\GreaterNumber.exe
+D:\всико\SoftUni\CSharpLesson3\GreaterNumber\bin\Debug\GreaterNumber.pdb
+D:\всико\SoftUni\CSharpLesson3\GreaterNumber\obj\Debug\GreaterNumber.csproj.CoreCompileInputs.cache
+D:\всико\SoftUni\CSharpLesson3\GreaterNumber\obj\Debug\GreaterNumber.exe
+D:\всико\SoftUni\CSharpLesson3\GreaterNumber\obj\Debug\GreaterNumber.pdb

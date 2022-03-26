@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson6\Diamond\bin\Debug\Diamond.exe.config
+D:\всичко\SoftUni\CSharpLesson6\Diamond\bin\Debug\Diamond.exe
+D:\всичко\SoftUni\CSharpLesson6\Diamond\bin\Debug\Diamond.pdb
+D:\всичко\SoftUni\CSharpLesson6\Diamond\obj\Debug\Diamond.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson6\Diamond\obj\Debug\Diamond.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson6\Diamond\obj\Debug\Diamond.exe
+D:\всичко\SoftUni\CSharpLesson6\Diamond\obj\Debug\Diamond.pdb

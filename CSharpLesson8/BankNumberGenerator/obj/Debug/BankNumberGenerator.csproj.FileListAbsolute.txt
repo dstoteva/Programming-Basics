@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\BankNumberGenerator\bin\Debug\BankNumberGenerator.exe.config
+D:\всичко\SoftUni\CSharpLesson8\BankNumberGenerator\bin\Debug\BankNumberGenerator.exe
+D:\всичко\SoftUni\CSharpLesson8\BankNumberGenerator\bin\Debug\BankNumberGenerator.pdb
+D:\всичко\SoftUni\CSharpLesson8\BankNumberGenerator\obj\Debug\BankNumberGenerator.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson8\BankNumberGenerator\obj\Debug\BankNumberGenerator.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\BankNumberGenerator\obj\Debug\BankNumberGenerator.exe
+D:\всичко\SoftUni\CSharpLesson8\BankNumberGenerator\obj\Debug\BankNumberGenerator.pdb

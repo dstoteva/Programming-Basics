@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\BitcoinCodeGenerator\bin\Debug\BitcoinCodeGenerator.exe.config
+D:\всичко\SoftUni\CSharpLesson8\BitcoinCodeGenerator\bin\Debug\BitcoinCodeGenerator.exe
+D:\всичко\SoftUni\CSharpLesson8\BitcoinCodeGenerator\bin\Debug\BitcoinCodeGenerator.pdb
+D:\всичко\SoftUni\CSharpLesson8\BitcoinCodeGenerator\obj\Debug\BitcoinCodeGenerator.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\BitcoinCodeGenerator\obj\Debug\BitcoinCodeGenerator.exe
+D:\всичко\SoftUni\CSharpLesson8\BitcoinCodeGenerator\obj\Debug\BitcoinCodeGenerator.pdb
+D:\всичко\SoftUni\CSharpLesson8\BitcoinCodeGenerator\obj\Debug\BitcoinCodeGenerator.csprojAssemblyReference.cache

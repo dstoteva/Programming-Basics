@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\numbers\bin\Debug\numbers.exe.config
+D:\всичко\SoftUni\CSharpLesson8\numbers\bin\Debug\numbers.exe
+D:\всичко\SoftUni\CSharpLesson8\numbers\bin\Debug\numbers.pdb
+D:\всичко\SoftUni\CSharpLesson8\numbers\obj\Debug\numbers.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson8\numbers\obj\Debug\numbers.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\numbers\obj\Debug\numbers.exe
+D:\всичко\SoftUni\CSharpLesson8\numbers\obj\Debug\numbers.pdb

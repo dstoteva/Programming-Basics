@@ -1,0 +1,5 @@
+C:\Users\home\Desktop\CsharpLesson1\Expression\bin\Debug\Expression.exe.config
+C:\Users\home\Desktop\CsharpLesson1\Expression\bin\Debug\Expression.exe
+C:\Users\home\Desktop\CsharpLesson1\Expression\bin\Debug\Expression.pdb
+C:\Users\home\Desktop\CsharpLesson1\Expression\obj\Debug\Expression.exe
+C:\Users\home\Desktop\CsharpLesson1\Expression\obj\Debug\Expression.pdb

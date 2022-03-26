@@ -1,0 +1,10 @@
+D:\всичко\SoftUni\CSharpLesson4\PointAndRectangle\obj\Debug\PointAndRectangle.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson4\PointAndRectangle\obj\Debug\PointAndRectangle.FormPoinAndRectangle.resources
+D:\всичко\SoftUni\CSharpLesson4\PointAndRectangle\obj\Debug\PointAndRectangle.Properties.Resources.resources
+D:\всичко\SoftUni\CSharpLesson4\PointAndRectangle\obj\Debug\PointAndRectangle.csproj.GenerateResource.cache
+D:\всичко\SoftUni\CSharpLesson4\PointAndRectangle\obj\Debug\PointAndRectangle.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson4\PointAndRectangle\bin\Debug\PointAndRectangle.exe.config
+D:\всичко\SoftUni\CSharpLesson4\PointAndRectangle\bin\Debug\PointAndRectangle.exe
+D:\всичко\SoftUni\CSharpLesson4\PointAndRectangle\bin\Debug\PointAndRectangle.pdb
+D:\всичко\SoftUni\CSharpLesson4\PointAndRectangle\obj\Debug\PointAndRectangle.exe
+D:\всичко\SoftUni\CSharpLesson4\PointAndRectangle\obj\Debug\PointAndRectangle.pdb

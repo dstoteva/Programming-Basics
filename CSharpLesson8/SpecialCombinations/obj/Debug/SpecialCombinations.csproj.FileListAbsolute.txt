@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\SpecialCombinations\bin\Debug\SpecialCombinations.exe.config
+D:\всичко\SoftUni\CSharpLesson8\SpecialCombinations\bin\Debug\SpecialCombinations.exe
+D:\всичко\SoftUni\CSharpLesson8\SpecialCombinations\bin\Debug\SpecialCombinations.pdb
+D:\всичко\SoftUni\CSharpLesson8\SpecialCombinations\obj\Debug\SpecialCombinations.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\SpecialCombinations\obj\Debug\SpecialCombinations.exe
+D:\всичко\SoftUni\CSharpLesson8\SpecialCombinations\obj\Debug\SpecialCombinations.pdb
+D:\всичко\SoftUni\CSharpLesson8\SpecialCombinations\obj\Debug\SpecialCombinations.csprojAssemblyReference.cache

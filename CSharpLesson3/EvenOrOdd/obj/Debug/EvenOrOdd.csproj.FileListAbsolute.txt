@@ -1,0 +1,6 @@
+D:\всико\SoftUni\CSharpLesson3\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+D:\всико\SoftUni\CSharpLesson3\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+D:\всико\SoftUni\CSharpLesson3\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+D:\всико\SoftUni\CSharpLesson3\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.CoreCompileInputs.cache
+D:\всико\SoftUni\CSharpLesson3\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+D:\всико\SoftUni\CSharpLesson3\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

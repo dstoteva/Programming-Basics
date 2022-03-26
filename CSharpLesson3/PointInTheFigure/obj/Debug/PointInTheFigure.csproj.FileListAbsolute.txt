@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson3\PointInTheFigure\bin\Debug\PointInTheFigure.exe.config
+D:\всичко\SoftUni\CSharpLesson3\PointInTheFigure\bin\Debug\PointInTheFigure.exe
+D:\всичко\SoftUni\CSharpLesson3\PointInTheFigure\bin\Debug\PointInTheFigure.pdb
+D:\всичко\SoftUni\CSharpLesson3\PointInTheFigure\obj\Debug\PointInTheFigure.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson3\PointInTheFigure\obj\Debug\PointInTheFigure.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson3\PointInTheFigure\obj\Debug\PointInTheFigure.exe
+D:\всичко\SoftUni\CSharpLesson3\PointInTheFigure\obj\Debug\PointInTheFigure.pdb

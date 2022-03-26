@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson7\CheckPrime\bin\Debug\CheckPrime.exe.config
+D:\всичко\SoftUni\CSharpLesson7\CheckPrime\bin\Debug\CheckPrime.exe
+D:\всичко\SoftUni\CSharpLesson7\CheckPrime\bin\Debug\CheckPrime.pdb
+D:\всичко\SoftUni\CSharpLesson7\CheckPrime\obj\Debug\CheckPrime.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson7\CheckPrime\obj\Debug\CheckPrime.exe
+D:\всичко\SoftUni\CSharpLesson7\CheckPrime\obj\Debug\CheckPrime.pdb
+D:\всичко\SoftUni\CSharpLesson7\CheckPrime\obj\Debug\CheckPrime.csprojAssemblyReference.cache

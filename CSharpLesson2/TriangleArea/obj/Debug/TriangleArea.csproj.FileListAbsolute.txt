@@ -1,0 +1,5 @@
+C:\Users\home\Desktop\CSharpLesson2\TriangleArea\bin\Debug\TriangleArea.exe.config
+C:\Users\home\Desktop\CSharpLesson2\TriangleArea\bin\Debug\TriangleArea.exe
+C:\Users\home\Desktop\CSharpLesson2\TriangleArea\bin\Debug\TriangleArea.pdb
+C:\Users\home\Desktop\CSharpLesson2\TriangleArea\obj\Debug\TriangleArea.exe
+C:\Users\home\Desktop\CSharpLesson2\TriangleArea\obj\Debug\TriangleArea.pdb

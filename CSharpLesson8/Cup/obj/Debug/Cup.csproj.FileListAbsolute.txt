@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\Cup\bin\Debug\Cup.exe.config
+D:\всичко\SoftUni\CSharpLesson8\Cup\bin\Debug\Cup.exe
+D:\всичко\SoftUni\CSharpLesson8\Cup\bin\Debug\Cup.pdb
+D:\всичко\SoftUni\CSharpLesson8\Cup\obj\Debug\Cup.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson8\Cup\obj\Debug\Cup.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\Cup\obj\Debug\Cup.exe
+D:\всичко\SoftUni\CSharpLesson8\Cup\obj\Debug\Cup.pdb

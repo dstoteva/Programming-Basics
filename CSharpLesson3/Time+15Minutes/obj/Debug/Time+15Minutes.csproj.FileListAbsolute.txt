@@ -1,0 +1,7 @@
+D:\всико\SoftUni\CSharpLesson3\Time+15Minutes\obj\Debug\Time+15Minutes.csproj.CoreCompileInputs.cache
+D:\всико\SoftUni\CSharpLesson3\Time+15Minutes\bin\Debug\Time+15Minutes.exe.config
+D:\всико\SoftUni\CSharpLesson3\Time+15Minutes\bin\Debug\Time+15Minutes.exe
+D:\всико\SoftUni\CSharpLesson3\Time+15Minutes\bin\Debug\Time+15Minutes.pdb
+D:\всико\SoftUni\CSharpLesson3\Time+15Minutes\obj\Debug\Time+15Minutes.exe
+D:\всико\SoftUni\CSharpLesson3\Time+15Minutes\obj\Debug\Time+15Minutes.pdb
+D:\всико\SoftUni\CSharpLesson3\Time+15Minutes\obj\Debug\Time+15Minutes.csprojResolveAssemblyReference.cache

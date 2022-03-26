@@ -1,0 +1,5 @@
+C:\Users\home\Desktop\CSharpLesson2\USDtoBGN\bin\Debug\USDtoBGN.exe.config
+C:\Users\home\Desktop\CSharpLesson2\USDtoBGN\bin\Debug\USDtoBGN.exe
+C:\Users\home\Desktop\CSharpLesson2\USDtoBGN\bin\Debug\USDtoBGN.pdb
+C:\Users\home\Desktop\CSharpLesson2\USDtoBGN\obj\Debug\USDtoBGN.exe
+C:\Users\home\Desktop\CSharpLesson2\USDtoBGN\obj\Debug\USDtoBGN.pdb

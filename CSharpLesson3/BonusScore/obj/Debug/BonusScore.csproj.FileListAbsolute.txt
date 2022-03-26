@@ -1,0 +1,7 @@
+D:\всико\SoftUni\CSharpLesson3\BonusScore\bin\Debug\BonusScore.exe.config
+D:\всико\SoftUni\CSharpLesson3\BonusScore\bin\Debug\BonusScore.exe
+D:\всико\SoftUni\CSharpLesson3\BonusScore\bin\Debug\BonusScore.pdb
+D:\всико\SoftUni\CSharpLesson3\BonusScore\obj\Debug\BonusScore.csprojResolveAssemblyReference.cache
+D:\всико\SoftUni\CSharpLesson3\BonusScore\obj\Debug\BonusScore.csproj.CoreCompileInputs.cache
+D:\всико\SoftUni\CSharpLesson3\BonusScore\obj\Debug\BonusScore.exe
+D:\всико\SoftUni\CSharpLesson3\BonusScore\obj\Debug\BonusScore.pdb

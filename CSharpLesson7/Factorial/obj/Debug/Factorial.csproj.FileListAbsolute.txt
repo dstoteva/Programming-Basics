@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson7\Factorial\bin\Debug\Factorial.exe.config
+D:\всичко\SoftUni\CSharpLesson7\Factorial\bin\Debug\Factorial.exe
+D:\всичко\SoftUni\CSharpLesson7\Factorial\bin\Debug\Factorial.pdb
+D:\всичко\SoftUni\CSharpLesson7\Factorial\obj\Debug\Factorial.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson7\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson7\Factorial\obj\Debug\Factorial.exe
+D:\всичко\SoftUni\CSharpLesson7\Factorial\obj\Debug\Factorial.pdb

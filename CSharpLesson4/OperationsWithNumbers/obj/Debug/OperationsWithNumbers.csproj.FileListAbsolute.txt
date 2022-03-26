@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson4\OperationsWithNumbers\bin\Debug\OperationsWithNumbers.exe.config
+D:\всичко\SoftUni\CSharpLesson4\OperationsWithNumbers\bin\Debug\OperationsWithNumbers.exe
+D:\всичко\SoftUni\CSharpLesson4\OperationsWithNumbers\bin\Debug\OperationsWithNumbers.pdb
+D:\всичко\SoftUni\CSharpLesson4\OperationsWithNumbers\obj\Debug\OperationsWithNumbers.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson4\OperationsWithNumbers\obj\Debug\OperationsWithNumbers.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson4\OperationsWithNumbers\obj\Debug\OperationsWithNumbers.exe
+D:\всичко\SoftUni\CSharpLesson4\OperationsWithNumbers\obj\Debug\OperationsWithNumbers.pdb

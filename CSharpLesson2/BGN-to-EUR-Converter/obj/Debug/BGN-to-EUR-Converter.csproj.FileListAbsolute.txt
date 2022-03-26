@@ -1,0 +1,10 @@
+D:\всико\SoftUni\CSharpLesson2\BGN-to-EUR-Converter\bin\Debug\BGN-to-EUR-Converter.exe.config
+D:\всико\SoftUni\CSharpLesson2\BGN-to-EUR-Converter\bin\Debug\BGN-to-EUR-Converter.exe
+D:\всико\SoftUni\CSharpLesson2\BGN-to-EUR-Converter\bin\Debug\BGN-to-EUR-Converter.pdb
+D:\всико\SoftUni\CSharpLesson2\BGN-to-EUR-Converter\obj\Debug\BGN-to-EUR-Converter.csprojResolveAssemblyReference.cache
+D:\всико\SoftUni\CSharpLesson2\BGN-to-EUR-Converter\obj\Debug\BGN_to_EUR_Converter.label.resources
+D:\всико\SoftUni\CSharpLesson2\BGN-to-EUR-Converter\obj\Debug\BGN_to_EUR_Converter.Properties.Resources.resources
+D:\всико\SoftUni\CSharpLesson2\BGN-to-EUR-Converter\obj\Debug\BGN-to-EUR-Converter.csproj.GenerateResource.cache
+D:\всико\SoftUni\CSharpLesson2\BGN-to-EUR-Converter\obj\Debug\BGN-to-EUR-Converter.csproj.CoreCompileInputs.cache
+D:\всико\SoftUni\CSharpLesson2\BGN-to-EUR-Converter\obj\Debug\BGN-to-EUR-Converter.exe
+D:\всико\SoftUni\CSharpLesson2\BGN-to-EUR-Converter\obj\Debug\BGN-to-EUR-Converter.pdb

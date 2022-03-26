@@ -1,0 +1,6 @@
+C:\Users\home\Desktop\CsharpLesson1\BGN-convertor\bin\Debug\BGN-convertor.exe.config
+C:\Users\home\Desktop\CsharpLesson1\BGN-convertor\bin\Debug\BGN-convertor.exe
+C:\Users\home\Desktop\CsharpLesson1\BGN-convertor\bin\Debug\BGN-convertor.pdb
+C:\Users\home\Desktop\CsharpLesson1\BGN-convertor\obj\Debug\BGN-convertor.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\CsharpLesson1\BGN-convertor\obj\Debug\BGN-convertor.exe
+C:\Users\home\Desktop\CsharpLesson1\BGN-convertor\obj\Debug\BGN-convertor.pdb

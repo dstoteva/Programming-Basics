@@ -1,0 +1,6 @@
+D:\всико\SoftUni\CSharpLesson3\AreaOfFigures\bin\Debug\AreaOfFigures.exe.config
+D:\всико\SoftUni\CSharpLesson3\AreaOfFigures\bin\Debug\AreaOfFigures.exe
+D:\всико\SoftUni\CSharpLesson3\AreaOfFigures\bin\Debug\AreaOfFigures.pdb
+D:\всико\SoftUni\CSharpLesson3\AreaOfFigures\obj\Debug\AreaOfFigures.csproj.CoreCompileInputs.cache
+D:\всико\SoftUni\CSharpLesson3\AreaOfFigures\obj\Debug\AreaOfFigures.exe
+D:\всико\SoftUni\CSharpLesson3\AreaOfFigures\obj\Debug\AreaOfFigures.pdb

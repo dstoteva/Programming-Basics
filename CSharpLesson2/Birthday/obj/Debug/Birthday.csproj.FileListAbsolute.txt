@@ -1,0 +1,7 @@
+D:\всико\SoftUni\CSharpLesson2\Birthday\obj\Debug\Birthday.csproj.CoreCompileInputs.cache
+D:\всико\SoftUni\CSharpLesson2\Birthday\bin\Debug\Birthday.exe.config
+D:\всико\SoftUni\CSharpLesson2\Birthday\bin\Debug\Birthday.exe
+D:\всико\SoftUni\CSharpLesson2\Birthday\bin\Debug\Birthday.pdb
+D:\всико\SoftUni\CSharpLesson2\Birthday\obj\Debug\Birthday.exe
+D:\всико\SoftUni\CSharpLesson2\Birthday\obj\Debug\Birthday.pdb
+D:\всико\SoftUni\CSharpLesson2\Birthday\obj\Debug\Birthday.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\home\Desktop\CSharpLesson2\TrapezArea\bin\Debug\TrapezArea.exe.config
+C:\Users\home\Desktop\CSharpLesson2\TrapezArea\bin\Debug\TrapezArea.exe
+C:\Users\home\Desktop\CSharpLesson2\TrapezArea\bin\Debug\TrapezArea.pdb
+C:\Users\home\Desktop\CSharpLesson2\TrapezArea\obj\Debug\TrapezArea.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\CSharpLesson2\TrapezArea\obj\Debug\TrapezArea.exe
+C:\Users\home\Desktop\CSharpLesson2\TrapezArea\obj\Debug\TrapezArea.pdb
+D:\всико\SoftUni\CSharpLesson2\TrapezArea\bin\Debug\TrapezArea.exe.config
+D:\всико\SoftUni\CSharpLesson2\TrapezArea\bin\Debug\TrapezArea.exe
+D:\всико\SoftUni\CSharpLesson2\TrapezArea\bin\Debug\TrapezArea.pdb
+D:\всико\SoftUni\CSharpLesson2\TrapezArea\obj\Debug\TrapezArea.csprojResolveAssemblyReference.cache
+D:\всико\SoftUni\CSharpLesson2\TrapezArea\obj\Debug\TrapezArea.csproj.CoreCompileInputs.cache
+D:\всико\SoftUni\CSharpLesson2\TrapezArea\obj\Debug\TrapezArea.exe
+D:\всико\SoftUni\CSharpLesson2\TrapezArea\obj\Debug\TrapezArea.pdb

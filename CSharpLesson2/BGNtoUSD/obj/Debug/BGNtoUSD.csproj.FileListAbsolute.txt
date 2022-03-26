@@ -1,0 +1,6 @@
+C:\Users\home\Desktop\CSharpLesson2\BGNtoUSD\bin\Debug\BGNtoUSD.exe.config
+C:\Users\home\Desktop\CSharpLesson2\BGNtoUSD\bin\Debug\BGNtoUSD.exe
+C:\Users\home\Desktop\CSharpLesson2\BGNtoUSD\bin\Debug\BGNtoUSD.pdb
+C:\Users\home\Desktop\CSharpLesson2\BGNtoUSD\obj\Debug\BGNtoUSD.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\CSharpLesson2\BGNtoUSD\obj\Debug\BGNtoUSD.exe
+C:\Users\home\Desktop\CSharpLesson2\BGNtoUSD\obj\Debug\BGNtoUSD.pdb

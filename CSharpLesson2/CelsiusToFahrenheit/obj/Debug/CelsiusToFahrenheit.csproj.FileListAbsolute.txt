@@ -1,0 +1,11 @@
+C:\Users\home\Desktop\CSharpLesson2\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe.config
+C:\Users\home\Desktop\CSharpLesson2\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe
+C:\Users\home\Desktop\CSharpLesson2\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.pdb
+C:\Users\home\Desktop\CSharpLesson2\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.exe
+C:\Users\home\Desktop\CSharpLesson2\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.pdb
+D:\всичко\SoftUni\CSharpLesson2\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe.config
+D:\всичко\SoftUni\CSharpLesson2\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe
+D:\всичко\SoftUni\CSharpLesson2\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.pdb
+D:\всичко\SoftUni\CSharpLesson2\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson2\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.exe
+D:\всичко\SoftUni\CSharpLesson2\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.pdb

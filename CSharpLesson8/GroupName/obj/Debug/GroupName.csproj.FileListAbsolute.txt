@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\GroupName\bin\Debug\GroupName.exe.config
+D:\всичко\SoftUni\CSharpLesson8\GroupName\bin\Debug\GroupName.exe
+D:\всичко\SoftUni\CSharpLesson8\GroupName\bin\Debug\GroupName.pdb
+D:\всичко\SoftUni\CSharpLesson8\GroupName\obj\Debug\GroupName.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson8\GroupName\obj\Debug\GroupName.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\GroupName\obj\Debug\GroupName.exe
+D:\всичко\SoftUni\CSharpLesson8\GroupName\obj\Debug\GroupName.pdb

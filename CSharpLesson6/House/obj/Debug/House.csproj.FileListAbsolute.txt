@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson6\House\bin\Debug\House.exe.config
+D:\всичко\SoftUni\CSharpLesson6\House\bin\Debug\House.exe
+D:\всичко\SoftUni\CSharpLesson6\House\bin\Debug\House.pdb
+D:\всичко\SoftUni\CSharpLesson6\House\obj\Debug\House.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson6\House\obj\Debug\House.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson6\House\obj\Debug\House.exe
+D:\всичко\SoftUni\CSharpLesson6\House\obj\Debug\House.pdb

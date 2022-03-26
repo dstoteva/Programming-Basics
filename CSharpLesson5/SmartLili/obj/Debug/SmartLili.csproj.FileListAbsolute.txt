@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson5\SmartLili\bin\Debug\SmartLili.exe.config
+D:\всичко\SoftUni\CSharpLesson5\SmartLili\bin\Debug\SmartLili.exe
+D:\всичко\SoftUni\CSharpLesson5\SmartLili\bin\Debug\SmartLili.pdb
+D:\всичко\SoftUni\CSharpLesson5\SmartLili\obj\Debug\SmartLili.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson5\SmartLili\obj\Debug\SmartLili.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson5\SmartLili\obj\Debug\SmartLili.exe
+D:\всичко\SoftUni\CSharpLesson5\SmartLili\obj\Debug\SmartLili.pdb

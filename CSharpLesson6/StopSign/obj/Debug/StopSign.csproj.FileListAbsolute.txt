@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson6\StopSign\bin\Debug\StopSign.exe.config
+D:\всичко\SoftUni\CSharpLesson6\StopSign\bin\Debug\StopSign.exe
+D:\всичко\SoftUni\CSharpLesson6\StopSign\bin\Debug\StopSign.pdb
+D:\всичко\SoftUni\CSharpLesson6\StopSign\obj\Debug\StopSign.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson6\StopSign\obj\Debug\StopSign.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson6\StopSign\obj\Debug\StopSign.exe
+D:\всичко\SoftUni\CSharpLesson6\StopSign\obj\Debug\StopSign.pdb

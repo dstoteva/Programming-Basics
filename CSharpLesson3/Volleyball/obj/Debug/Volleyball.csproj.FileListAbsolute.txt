@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson3\Volleyball\obj\Debug\Volleyball.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson3\Volleyball\obj\Debug\Volleyball.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson3\Volleyball\bin\Debug\Volleyball.exe.config
+D:\всичко\SoftUni\CSharpLesson3\Volleyball\bin\Debug\Volleyball.exe
+D:\всичко\SoftUni\CSharpLesson3\Volleyball\bin\Debug\Volleyball.pdb
+D:\всичко\SoftUni\CSharpLesson3\Volleyball\obj\Debug\Volleyball.exe
+D:\всичко\SoftUni\CSharpLesson3\Volleyball\obj\Debug\Volleyball.pdb

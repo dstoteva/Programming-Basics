@@ -1,0 +1,6 @@
+D:\всичко\SoftUni\CSharpLesson6\RectangleNStars\bin\Debug\RectangleNStars.exe.config
+D:\всичко\SoftUni\CSharpLesson6\RectangleNStars\bin\Debug\RectangleNStars.exe
+D:\всичко\SoftUni\CSharpLesson6\RectangleNStars\bin\Debug\RectangleNStars.pdb
+D:\всичко\SoftUni\CSharpLesson6\RectangleNStars\obj\Debug\RectangleNStars.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson6\RectangleNStars\obj\Debug\RectangleNStars.exe
+D:\всичко\SoftUni\CSharpLesson6\RectangleNStars\obj\Debug\RectangleNStars.pdb

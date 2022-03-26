@@ -1,0 +1,6 @@
+C:\Users\home\Desktop\CsharpLesson1\triangleS\bin\Debug\triangleS.exe.config
+C:\Users\home\Desktop\CsharpLesson1\triangleS\bin\Debug\triangleS.exe
+C:\Users\home\Desktop\CsharpLesson1\triangleS\bin\Debug\triangleS.pdb
+C:\Users\home\Desktop\CsharpLesson1\triangleS\obj\Debug\rectangleS.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\CsharpLesson1\triangleS\obj\Debug\triangleS.exe
+C:\Users\home\Desktop\CsharpLesson1\triangleS\obj\Debug\triangleS.pdb

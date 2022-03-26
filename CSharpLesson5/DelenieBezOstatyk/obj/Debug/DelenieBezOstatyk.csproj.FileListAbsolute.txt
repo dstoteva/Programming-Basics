@@ -1,0 +1,6 @@
+D:\всичко\SoftUni\CSharpLesson5\DelenieBezOstatyk\bin\Debug\DelenieBezOstatyk.exe.config
+D:\всичко\SoftUni\CSharpLesson5\DelenieBezOstatyk\bin\Debug\DelenieBezOstatyk.exe
+D:\всичко\SoftUni\CSharpLesson5\DelenieBezOstatyk\bin\Debug\DelenieBezOstatyk.pdb
+D:\всичко\SoftUni\CSharpLesson5\DelenieBezOstatyk\obj\Debug\DelenieBezOstatyk.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson5\DelenieBezOstatyk\obj\Debug\DelenieBezOstatyk.exe
+D:\всичко\SoftUni\CSharpLesson5\DelenieBezOstatyk\obj\Debug\DelenieBezOstatyk.pdb

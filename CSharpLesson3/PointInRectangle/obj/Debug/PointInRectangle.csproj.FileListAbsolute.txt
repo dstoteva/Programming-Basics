@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson3\PointInRectangle\bin\Debug\PointInRectangle.exe.config
+D:\всичко\SoftUni\CSharpLesson3\PointInRectangle\bin\Debug\PointInRectangle.exe
+D:\всичко\SoftUni\CSharpLesson3\PointInRectangle\bin\Debug\PointInRectangle.pdb
+D:\всичко\SoftUni\CSharpLesson3\PointInRectangle\obj\Debug\PointInRectangle.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson3\PointInRectangle\obj\Debug\PointInRectangle.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson3\PointInRectangle\obj\Debug\PointInRectangle.exe
+D:\всичко\SoftUni\CSharpLesson3\PointInRectangle\obj\Debug\PointInRectangle.pdb

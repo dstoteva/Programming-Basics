@@ -1,0 +1,13 @@
+C:\Users\home\Desktop\CsharpLesson1\Numbers1to20\bin\Debug\Numbers1to20.exe.config
+C:\Users\home\Desktop\CsharpLesson1\Numbers1to20\bin\Debug\Numbers1to20.exe
+C:\Users\home\Desktop\CsharpLesson1\Numbers1to20\bin\Debug\Numbers1to20.pdb
+C:\Users\home\Desktop\CsharpLesson1\Numbers1to20\obj\Debug\Numbers1to20.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\CsharpLesson1\Numbers1to20\obj\Debug\Numbers1to20.exe
+C:\Users\home\Desktop\CsharpLesson1\Numbers1to20\obj\Debug\Numbers1to20.pdb
+D:\всичко\SoftUni\CsharpLesson1\Numbers1to20\bin\Debug\Numbers1to20.exe.config
+D:\всичко\SoftUni\CsharpLesson1\Numbers1to20\bin\Debug\Numbers1to20.exe
+D:\всичко\SoftUni\CsharpLesson1\Numbers1to20\bin\Debug\Numbers1to20.pdb
+D:\всичко\SoftUni\CsharpLesson1\Numbers1to20\obj\Debug\Numbers1to20.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CsharpLesson1\Numbers1to20\obj\Debug\Numbers1to20.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CsharpLesson1\Numbers1to20\obj\Debug\Numbers1to20.exe
+D:\всичко\SoftUni\CsharpLesson1\Numbers1to20\obj\Debug\Numbers1to20.pdb

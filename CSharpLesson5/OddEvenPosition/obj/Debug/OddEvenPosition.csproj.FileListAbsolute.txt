@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson5\OddEvenPosition\bin\Debug\OddEvenPosition.exe.config
+D:\всичко\SoftUni\CSharpLesson5\OddEvenPosition\bin\Debug\OddEvenPosition.exe
+D:\всичко\SoftUni\CSharpLesson5\OddEvenPosition\bin\Debug\OddEvenPosition.pdb
+D:\всичко\SoftUni\CSharpLesson5\OddEvenPosition\obj\Debug\OddEvenPosition.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson5\OddEvenPosition\obj\Debug\OddEvenPosition.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson5\OddEvenPosition\obj\Debug\OddEvenPosition.exe
+D:\всичко\SoftUni\CSharpLesson5\OddEvenPosition\obj\Debug\OddEvenPosition.pdb

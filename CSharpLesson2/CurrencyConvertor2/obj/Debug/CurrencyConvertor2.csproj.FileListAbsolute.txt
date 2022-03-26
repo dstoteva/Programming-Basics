@@ -1,0 +1,6 @@
+C:\Users\home\Desktop\CSharpLesson2\CurrencyConvertor2\bin\Debug\CurrencyConvertor2.exe.config
+C:\Users\home\Desktop\CSharpLesson2\CurrencyConvertor2\bin\Debug\CurrencyConvertor2.exe
+C:\Users\home\Desktop\CSharpLesson2\CurrencyConvertor2\bin\Debug\CurrencyConvertor2.pdb
+C:\Users\home\Desktop\CSharpLesson2\CurrencyConvertor2\obj\Debug\CurrencyConvertor2.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\CSharpLesson2\CurrencyConvertor2\obj\Debug\CurrencyConvertor2.exe
+C:\Users\home\Desktop\CSharpLesson2\CurrencyConvertor2\obj\Debug\CurrencyConvertor2.pdb

@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\TwoNumbersSum\bin\Debug\TwoNumbersSum.exe.config
+D:\всичко\SoftUni\CSharpLesson8\TwoNumbersSum\bin\Debug\TwoNumbersSum.exe
+D:\всичко\SoftUni\CSharpLesson8\TwoNumbersSum\bin\Debug\TwoNumbersSum.pdb
+D:\всичко\SoftUni\CSharpLesson8\TwoNumbersSum\obj\Debug\TwoNumbersSum.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson8\TwoNumbersSum\obj\Debug\TwoNumbersSum.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\TwoNumbersSum\obj\Debug\TwoNumbersSum.exe
+D:\всичко\SoftUni\CSharpLesson8\TwoNumbersSum\obj\Debug\TwoNumbersSum.pdb

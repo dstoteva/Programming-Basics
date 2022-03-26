@@ -1,0 +1,6 @@
+D:\всичко\SoftUni\CSharpLesson8\MaxCombination\bin\Debug\MaxCombination.exe.config
+D:\всичко\SoftUni\CSharpLesson8\MaxCombination\bin\Debug\MaxCombination.exe
+D:\всичко\SoftUni\CSharpLesson8\MaxCombination\bin\Debug\MaxCombination.pdb
+D:\всичко\SoftUni\CSharpLesson8\MaxCombination\obj\Debug\MaxCombination.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\MaxCombination\obj\Debug\MaxCombination.exe
+D:\всичко\SoftUni\CSharpLesson8\MaxCombination\obj\Debug\MaxCombination.pdb

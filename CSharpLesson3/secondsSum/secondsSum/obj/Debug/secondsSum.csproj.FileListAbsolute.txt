@@ -1,0 +1,7 @@
+C:\Users\home\source\repos\secondsSum\secondsSum\bin\Debug\secondsSum.exe.config
+C:\Users\home\source\repos\secondsSum\secondsSum\bin\Debug\secondsSum.exe
+C:\Users\home\source\repos\secondsSum\secondsSum\bin\Debug\secondsSum.pdb
+C:\Users\home\source\repos\secondsSum\secondsSum\obj\Debug\secondsSum.csprojResolveAssemblyReference.cache
+C:\Users\home\source\repos\secondsSum\secondsSum\obj\Debug\secondsSum.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\secondsSum\secondsSum\obj\Debug\secondsSum.exe
+C:\Users\home\source\repos\secondsSum\secondsSum\obj\Debug\secondsSum.pdb

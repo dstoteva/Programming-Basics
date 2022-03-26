@@ -1,0 +1,7 @@
+D:\всико\SoftUni\CSharpLesson3\MetricConverter\bin\Debug\MetricConverter.exe.config
+D:\всико\SoftUni\CSharpLesson3\MetricConverter\bin\Debug\MetricConverter.exe
+D:\всико\SoftUni\CSharpLesson3\MetricConverter\bin\Debug\MetricConverter.pdb
+D:\всико\SoftUni\CSharpLesson3\MetricConverter\obj\Debug\MetricConverter.csprojResolveAssemblyReference.cache
+D:\всико\SoftUni\CSharpLesson3\MetricConverter\obj\Debug\MetricConverter.csproj.CoreCompileInputs.cache
+D:\всико\SoftUni\CSharpLesson3\MetricConverter\obj\Debug\MetricConverter.exe
+D:\всико\SoftUni\CSharpLesson3\MetricConverter\obj\Debug\MetricConverter.pdb

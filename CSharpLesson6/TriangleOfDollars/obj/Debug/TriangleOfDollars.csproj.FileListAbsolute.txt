@@ -1,0 +1,6 @@
+D:\всичко\SoftUni\CSharpLesson6\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe.config
+D:\всичко\SoftUni\CSharpLesson6\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe
+D:\всичко\SoftUni\CSharpLesson6\TriangleOfDollars\bin\Debug\TriangleOfDollars.pdb
+D:\всичко\SoftUni\CSharpLesson6\TriangleOfDollars\obj\Debug\TriangleOfDollars.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson6\TriangleOfDollars\obj\Debug\TriangleOfDollars.exe
+D:\всичко\SoftUni\CSharpLesson6\TriangleOfDollars\obj\Debug\TriangleOfDollars.pdb

@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson5\MaxNumber\bin\Debug\MaxNumber.exe.config
+D:\всичко\SoftUni\CSharpLesson5\MaxNumber\bin\Debug\MaxNumber.exe
+D:\всичко\SoftUni\CSharpLesson5\MaxNumber\bin\Debug\MaxNumber.pdb
+D:\всичко\SoftUni\CSharpLesson5\MaxNumber\obj\Debug\MaxNumber.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson5\MaxNumber\obj\Debug\MaxNumber.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson5\MaxNumber\obj\Debug\MaxNumber.exe
+D:\всичко\SoftUni\CSharpLesson5\MaxNumber\obj\Debug\MaxNumber.pdb

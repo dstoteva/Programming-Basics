@@ -1,0 +1,7 @@
+D:\всико\SoftUni\CSharpLesson3\ExcellentResult\bin\Debug\ExcellentResult.exe.config
+D:\всико\SoftUni\CSharpLesson3\ExcellentResult\bin\Debug\ExcellentResult.exe
+D:\всико\SoftUni\CSharpLesson3\ExcellentResult\bin\Debug\ExcellentResult.pdb
+D:\всико\SoftUni\CSharpLesson3\ExcellentResult\obj\Debug\ExcellentResult.csprojResolveAssemblyReference.cache
+D:\всико\SoftUni\CSharpLesson3\ExcellentResult\obj\Debug\ExcellentResult.csproj.CoreCompileInputs.cache
+D:\всико\SoftUni\CSharpLesson3\ExcellentResult\obj\Debug\ExcellentResult.exe
+D:\всико\SoftUni\CSharpLesson3\ExcellentResult\obj\Debug\ExcellentResult.pdb

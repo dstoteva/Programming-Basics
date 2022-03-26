@@ -1,0 +1,6 @@
+D:\всико\SoftUni\CSharpLesson3\EqualWords\bin\Debug\EqualWords.exe.config
+D:\всико\SoftUni\CSharpLesson3\EqualWords\bin\Debug\EqualWords.exe
+D:\всико\SoftUni\CSharpLesson3\EqualWords\bin\Debug\EqualWords.pdb
+D:\всико\SoftUni\CSharpLesson3\EqualWords\obj\Debug\EqualWords.csproj.CoreCompileInputs.cache
+D:\всико\SoftUni\CSharpLesson3\EqualWords\obj\Debug\EqualWords.exe
+D:\всико\SoftUni\CSharpLesson3\EqualWords\obj\Debug\EqualWords.pdb

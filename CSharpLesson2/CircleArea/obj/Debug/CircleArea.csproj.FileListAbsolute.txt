@@ -1,0 +1,6 @@
+C:\Users\home\Desktop\CSharpLesson2\CircleArea\bin\Debug\CircleArea.exe.config
+C:\Users\home\Desktop\CSharpLesson2\CircleArea\bin\Debug\CircleArea.exe
+C:\Users\home\Desktop\CSharpLesson2\CircleArea\bin\Debug\CircleArea.pdb
+C:\Users\home\Desktop\CSharpLesson2\CircleArea\obj\Debug\CircleArea.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\CSharpLesson2\CircleArea\obj\Debug\CircleArea.exe
+C:\Users\home\Desktop\CSharpLesson2\CircleArea\obj\Debug\CircleArea.pdb

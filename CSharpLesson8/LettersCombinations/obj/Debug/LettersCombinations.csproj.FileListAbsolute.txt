@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\LettersCombinations\bin\Debug\LettersCombinations.exe.config
+D:\всичко\SoftUni\CSharpLesson8\LettersCombinations\bin\Debug\LettersCombinations.exe
+D:\всичко\SoftUni\CSharpLesson8\LettersCombinations\bin\Debug\LettersCombinations.pdb
+D:\всичко\SoftUni\CSharpLesson8\LettersCombinations\obj\Debug\LettersCombinations.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson8\LettersCombinations\obj\Debug\LettersCombinations.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\LettersCombinations\obj\Debug\LettersCombinations.exe
+D:\всичко\SoftUni\CSharpLesson8\LettersCombinations\obj\Debug\LettersCombinations.pdb

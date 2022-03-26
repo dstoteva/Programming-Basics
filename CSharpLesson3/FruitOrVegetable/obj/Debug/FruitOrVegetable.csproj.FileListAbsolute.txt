@@ -1,0 +1,6 @@
+D:\всичко\SoftUni\CSharpLesson3\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe.config
+D:\всичко\SoftUni\CSharpLesson3\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe
+D:\всичко\SoftUni\CSharpLesson3\FruitOrVegetable\bin\Debug\FruitOrVegetable.pdb
+D:\всичко\SoftUni\CSharpLesson3\FruitOrVegetable\obj\Debug\FruitOrVegetable.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson3\FruitOrVegetable\obj\Debug\FruitOrVegetable.exe
+D:\всичко\SoftUni\CSharpLesson3\FruitOrVegetable\obj\Debug\FruitOrVegetable.pdb

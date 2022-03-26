@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\Rocket\bin\Debug\Rocket.exe.config
+D:\всичко\SoftUni\CSharpLesson8\Rocket\bin\Debug\Rocket.exe
+D:\всичко\SoftUni\CSharpLesson8\Rocket\bin\Debug\Rocket.pdb
+D:\всичко\SoftUni\CSharpLesson8\Rocket\obj\Debug\Rocket.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson8\Rocket\obj\Debug\Rocket.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\Rocket\obj\Debug\Rocket.exe
+D:\всичко\SoftUni\CSharpLesson8\Rocket\obj\Debug\Rocket.pdb

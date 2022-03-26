@@ -1,0 +1,5 @@
+C:\Users\home\Desktop\CsharpLesson1\StarsSquare\bin\Debug\StarsSquare.exe.config
+C:\Users\home\Desktop\CsharpLesson1\StarsSquare\bin\Debug\StarsSquare.exe
+C:\Users\home\Desktop\CsharpLesson1\StarsSquare\bin\Debug\StarsSquare.pdb
+C:\Users\home\Desktop\CsharpLesson1\StarsSquare\obj\Debug\StarsSquare.exe
+C:\Users\home\Desktop\CsharpLesson1\StarsSquare\obj\Debug\StarsSquare.pdb

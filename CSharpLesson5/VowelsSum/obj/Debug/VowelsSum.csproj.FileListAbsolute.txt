@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson5\VowelsSum\bin\Debug\VowelsSum.exe.config
+D:\всичко\SoftUni\CSharpLesson5\VowelsSum\bin\Debug\VowelsSum.exe
+D:\всичко\SoftUni\CSharpLesson5\VowelsSum\bin\Debug\VowelsSum.pdb
+D:\всичко\SoftUni\CSharpLesson5\VowelsSum\obj\Debug\VowelsSum.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson5\VowelsSum\obj\Debug\VowelsSum.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson5\VowelsSum\obj\Debug\VowelsSum.exe
+D:\всичко\SoftUni\CSharpLesson5\VowelsSum\obj\Debug\VowelsSum.pdb

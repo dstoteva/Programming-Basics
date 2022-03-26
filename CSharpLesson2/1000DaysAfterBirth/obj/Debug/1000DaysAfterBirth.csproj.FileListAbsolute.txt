@@ -1,0 +1,13 @@
+D:\всико\SoftUni\CSharpLesson2\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.exe.config
+D:\всико\SoftUni\CSharpLesson2\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.exe
+D:\всико\SoftUni\CSharpLesson2\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.pdb
+D:\всико\SoftUni\CSharpLesson2\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.csprojResolveAssemblyReference.cache
+D:\всико\SoftUni\CSharpLesson2\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.csproj.CoreCompileInputs.cache
+D:\всико\SoftUni\CSharpLesson2\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.exe
+D:\всико\SoftUni\CSharpLesson2\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.pdb
+D:\всичко\SoftUni\CSharpLesson2\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.exe.config
+D:\всичко\SoftUni\CSharpLesson2\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.exe
+D:\всичко\SoftUni\CSharpLesson2\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.pdb
+D:\всичко\SoftUni\CSharpLesson2\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson2\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.exe
+D:\всичко\SoftUni\CSharpLesson2\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.pdb

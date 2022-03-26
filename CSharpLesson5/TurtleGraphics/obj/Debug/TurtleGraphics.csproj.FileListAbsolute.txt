@@ -1,0 +1,12 @@
+D:\всичко\SoftUni\CSharpLesson5\TurtleGraphics\bin\Debug\TurtleGraphics.exe.config
+D:\всичко\SoftUni\CSharpLesson5\TurtleGraphics\bin\Debug\TurtleGraphics.exe
+D:\всичко\SoftUni\CSharpLesson5\TurtleGraphics\bin\Debug\TurtleGraphics.pdb
+D:\всичко\SoftUni\CSharpLesson5\TurtleGraphics\bin\Debug\Nakov.TurtleGraphics.dll
+D:\всичко\SoftUni\CSharpLesson5\TurtleGraphics\obj\Debug\TurtleGraphics.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson5\TurtleGraphics\obj\Debug\TurtleGraphics.FormTurtleGraphics.resources
+D:\всичко\SoftUni\CSharpLesson5\TurtleGraphics\obj\Debug\TurtleGraphics.Properties.Resources.resources
+D:\всичко\SoftUni\CSharpLesson5\TurtleGraphics\obj\Debug\TurtleGraphics.csproj.GenerateResource.cache
+D:\всичко\SoftUni\CSharpLesson5\TurtleGraphics\obj\Debug\TurtleGraphics.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson5\TurtleGraphics\obj\Debug\TurtleGraphics.csproj.CopyComplete
+D:\всичко\SoftUni\CSharpLesson5\TurtleGraphics\obj\Debug\TurtleGraphics.exe
+D:\всичко\SoftUni\CSharpLesson5\TurtleGraphics\obj\Debug\TurtleGraphics.pdb

@@ -1,0 +1,7 @@
+D:\всико\SoftUni\CSharpLesson2\Charity\bin\Debug\Charity.exe.config
+D:\всико\SoftUni\CSharpLesson2\Charity\bin\Debug\Charity.exe
+D:\всико\SoftUni\CSharpLesson2\Charity\bin\Debug\Charity.pdb
+D:\всико\SoftUni\CSharpLesson2\Charity\obj\Debug\Charity.csprojResolveAssemblyReference.cache
+D:\всико\SoftUni\CSharpLesson2\Charity\obj\Debug\Charity.csproj.CoreCompileInputs.cache
+D:\всико\SoftUni\CSharpLesson2\Charity\obj\Debug\Charity.exe
+D:\всико\SoftUni\CSharpLesson2\Charity\obj\Debug\Charity.pdb

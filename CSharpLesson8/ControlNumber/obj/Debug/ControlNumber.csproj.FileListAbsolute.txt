@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\ControlNumber\bin\Debug\ControlNumber.exe.config
+D:\всичко\SoftUni\CSharpLesson8\ControlNumber\bin\Debug\ControlNumber.exe
+D:\всичко\SoftUni\CSharpLesson8\ControlNumber\bin\Debug\ControlNumber.pdb
+D:\всичко\SoftUni\CSharpLesson8\ControlNumber\obj\Debug\ControlNumber.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson8\ControlNumber\obj\Debug\ControlNumber.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\ControlNumber\obj\Debug\ControlNumber.exe
+D:\всичко\SoftUni\CSharpLesson8\ControlNumber\obj\Debug\ControlNumber.pdb

@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\SumAndProduct\bin\Debug\SumAndProduct.exe.config
+D:\всичко\SoftUni\CSharpLesson8\SumAndProduct\bin\Debug\SumAndProduct.exe
+D:\всичко\SoftUni\CSharpLesson8\SumAndProduct\bin\Debug\SumAndProduct.pdb
+D:\всичко\SoftUni\CSharpLesson8\SumAndProduct\obj\Debug\SumAndProduct.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson8\SumAndProduct\obj\Debug\SumAndProduct.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\SumAndProduct\obj\Debug\SumAndProduct.exe
+D:\всичко\SoftUni\CSharpLesson8\SumAndProduct\obj\Debug\SumAndProduct.pdb

@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson5\EqualPairs\bin\Debug\EqualPairs.exe.config
+D:\всичко\SoftUni\CSharpLesson5\EqualPairs\bin\Debug\EqualPairs.exe
+D:\всичко\SoftUni\CSharpLesson5\EqualPairs\bin\Debug\EqualPairs.pdb
+D:\всичко\SoftUni\CSharpLesson5\EqualPairs\obj\Debug\EqualPairs.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson5\EqualPairs\obj\Debug\EqualPairs.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson5\EqualPairs\obj\Debug\EqualPairs.exe
+D:\всичко\SoftUni\CSharpLesson5\EqualPairs\obj\Debug\EqualPairs.pdb

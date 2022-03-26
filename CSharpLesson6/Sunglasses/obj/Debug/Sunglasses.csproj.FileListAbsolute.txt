@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson6\Sunglasses\obj\Debug\Sunglasses.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson6\Sunglasses\obj\Debug\Sunglasses.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson6\Sunglasses\bin\Debug\Sunglasses.exe.config
+D:\всичко\SoftUni\CSharpLesson6\Sunglasses\bin\Debug\Sunglasses.exe
+D:\всичко\SoftUni\CSharpLesson6\Sunglasses\bin\Debug\Sunglasses.pdb
+D:\всичко\SoftUni\CSharpLesson6\Sunglasses\obj\Debug\Sunglasses.exe
+D:\всичко\SoftUni\CSharpLesson6\Sunglasses\obj\Debug\Sunglasses.pdb

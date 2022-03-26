@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\CarNumber\bin\Debug\CarNumber.exe.config
+D:\всичко\SoftUni\CSharpLesson8\CarNumber\bin\Debug\CarNumber.exe
+D:\всичко\SoftUni\CSharpLesson8\CarNumber\bin\Debug\CarNumber.pdb
+D:\всичко\SoftUni\CSharpLesson8\CarNumber\obj\Debug\CarNumber.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson8\CarNumber\obj\Debug\CarNumber.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\CarNumber\obj\Debug\CarNumber.exe
+D:\всичко\SoftUni\CSharpLesson8\CarNumber\obj\Debug\CarNumber.pdb

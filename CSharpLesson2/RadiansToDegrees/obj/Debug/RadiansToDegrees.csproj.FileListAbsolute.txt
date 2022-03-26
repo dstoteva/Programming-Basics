@@ -1,0 +1,5 @@
+C:\Users\home\Desktop\CSharpLesson2\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe.config
+C:\Users\home\Desktop\CSharpLesson2\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe
+C:\Users\home\Desktop\CSharpLesson2\RadiansToDegrees\bin\Debug\RadiansToDegrees.pdb
+C:\Users\home\Desktop\CSharpLesson2\RadiansToDegrees\obj\Debug\RadiansToDegrees.exe
+C:\Users\home\Desktop\CSharpLesson2\RadiansToDegrees\obj\Debug\RadiansToDegrees.pdb

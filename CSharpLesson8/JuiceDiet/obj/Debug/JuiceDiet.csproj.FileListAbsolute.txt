@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\JuiceDiet\bin\Debug\JuiceDiet.exe.config
+D:\всичко\SoftUni\CSharpLesson8\JuiceDiet\bin\Debug\JuiceDiet.exe
+D:\всичко\SoftUni\CSharpLesson8\JuiceDiet\bin\Debug\JuiceDiet.pdb
+D:\всичко\SoftUni\CSharpLesson8\JuiceDiet\obj\Debug\JuiceDiet.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson8\JuiceDiet\obj\Debug\JuiceDiet.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\JuiceDiet\obj\Debug\JuiceDiet.exe
+D:\всичко\SoftUni\CSharpLesson8\JuiceDiet\obj\Debug\JuiceDiet.pdb

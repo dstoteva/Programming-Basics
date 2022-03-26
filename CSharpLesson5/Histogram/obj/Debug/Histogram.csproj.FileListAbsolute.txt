@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson5\Histogram\bin\Debug\Histogram.exe.config
+D:\всичко\SoftUni\CSharpLesson5\Histogram\bin\Debug\Histogram.exe
+D:\всичко\SoftUni\CSharpLesson5\Histogram\bin\Debug\Histogram.pdb
+D:\всичко\SoftUni\CSharpLesson5\Histogram\obj\Debug\Histogram.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson5\Histogram\obj\Debug\Histogram.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson5\Histogram\obj\Debug\Histogram.exe
+D:\всичко\SoftUni\CSharpLesson5\Histogram\obj\Debug\Histogram.pdb

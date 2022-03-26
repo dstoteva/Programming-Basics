@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson4\MatchTickets\bin\Debug\MatchTickets.exe.config
+D:\всичко\SoftUni\CSharpLesson4\MatchTickets\bin\Debug\MatchTickets.exe
+D:\всичко\SoftUni\CSharpLesson4\MatchTickets\bin\Debug\MatchTickets.pdb
+D:\всичко\SoftUni\CSharpLesson4\MatchTickets\obj\Debug\MatchTickets.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson4\MatchTickets\obj\Debug\MatchTickets.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson4\MatchTickets\obj\Debug\MatchTickets.exe
+D:\всичко\SoftUni\CSharpLesson4\MatchTickets\obj\Debug\MatchTickets.pdb

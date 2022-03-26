@@ -1,0 +1,6 @@
+D:\всико\SoftUni\CSharpLesson3\threeEqualNumbers\bin\Debug\threeEqualNumbers.exe.config
+D:\всико\SoftUni\CSharpLesson3\threeEqualNumbers\bin\Debug\threeEqualNumbers.exe
+D:\всико\SoftUni\CSharpLesson3\threeEqualNumbers\bin\Debug\threeEqualNumbers.pdb
+D:\всико\SoftUni\CSharpLesson3\threeEqualNumbers\obj\Debug\threeEqualNumbers.csproj.CoreCompileInputs.cache
+D:\всико\SoftUni\CSharpLesson3\threeEqualNumbers\obj\Debug\threeEqualNumbers.exe
+D:\всико\SoftUni\CSharpLesson3\threeEqualNumbers\obj\Debug\threeEqualNumbers.pdb

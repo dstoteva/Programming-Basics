@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson6\RhombusOfStars\bin\Debug\RhombusOfStars.exe.config
+D:\всичко\SoftUni\CSharpLesson6\RhombusOfStars\bin\Debug\RhombusOfStars.exe
+D:\всичко\SoftUni\CSharpLesson6\RhombusOfStars\bin\Debug\RhombusOfStars.pdb
+D:\всичко\SoftUni\CSharpLesson6\RhombusOfStars\obj\Debug\RhombusOfStars.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson6\RhombusOfStars\obj\Debug\RhombusOfStars.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson6\RhombusOfStars\obj\Debug\RhombusOfStars.exe
+D:\всичко\SoftUni\CSharpLesson6\RhombusOfStars\obj\Debug\RhombusOfStars.pdb

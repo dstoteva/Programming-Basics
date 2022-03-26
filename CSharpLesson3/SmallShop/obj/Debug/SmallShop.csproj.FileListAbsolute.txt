@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson3\SmallShop\bin\Debug\SmallShop.exe.config
+D:\всичко\SoftUni\CSharpLesson3\SmallShop\bin\Debug\SmallShop.exe
+D:\всичко\SoftUni\CSharpLesson3\SmallShop\bin\Debug\SmallShop.pdb
+D:\всичко\SoftUni\CSharpLesson3\SmallShop\obj\Debug\SmallShop.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson3\SmallShop\obj\Debug\SmallShop.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson3\SmallShop\obj\Debug\SmallShop.exe
+D:\всичко\SoftUni\CSharpLesson3\SmallShop\obj\Debug\SmallShop.pdb

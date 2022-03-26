@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson8\Flowers\bin\Debug\Flowers.exe.config
+D:\всичко\SoftUni\CSharpLesson8\Flowers\bin\Debug\Flowers.exe
+D:\всичко\SoftUni\CSharpLesson8\Flowers\bin\Debug\Flowers.pdb
+D:\всичко\SoftUni\CSharpLesson8\Flowers\obj\Debug\Flowers.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson8\Flowers\obj\Debug\Flowers.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson8\Flowers\obj\Debug\Flowers.exe
+D:\всичко\SoftUni\CSharpLesson8\Flowers\obj\Debug\Flowers.pdb

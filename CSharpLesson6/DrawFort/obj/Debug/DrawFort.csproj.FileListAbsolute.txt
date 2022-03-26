@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson6\DrawFort\bin\Debug\DrawFort.exe.config
+D:\всичко\SoftUni\CSharpLesson6\DrawFort\bin\Debug\DrawFort.exe
+D:\всичко\SoftUni\CSharpLesson6\DrawFort\bin\Debug\DrawFort.pdb
+D:\всичко\SoftUni\CSharpLesson6\DrawFort\obj\Debug\DrawFort.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson6\DrawFort\obj\Debug\DrawFort.exe
+D:\всичко\SoftUni\CSharpLesson6\DrawFort\obj\Debug\DrawFort.pdb
+D:\всичко\SoftUni\CSharpLesson6\DrawFort\obj\Debug\DrawFort.csprojAssemblyReference.cache

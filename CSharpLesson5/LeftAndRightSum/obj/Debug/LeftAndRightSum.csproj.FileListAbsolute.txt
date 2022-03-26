@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson5\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
+D:\всичко\SoftUni\CSharpLesson5\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe
+D:\всичко\SoftUni\CSharpLesson5\LeftAndRightSum\bin\Debug\LeftAndRightSum.pdb
+D:\всичко\SoftUni\CSharpLesson5\LeftAndRightSum\obj\Debug\LeftAndRightSum.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson5\LeftAndRightSum\obj\Debug\LeftAndRightSum.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson5\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
+D:\всичко\SoftUni\CSharpLesson5\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb

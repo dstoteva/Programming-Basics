@@ -1,0 +1,6 @@
+D:\всичко\SoftUni\CSharpLesson3\PointOfRectangleBorder\bin\Debug\PointOfRectangleBorder.exe.config
+D:\всичко\SoftUni\CSharpLesson3\PointOfRectangleBorder\bin\Debug\PointOfRectangleBorder.exe
+D:\всичко\SoftUni\CSharpLesson3\PointOfRectangleBorder\bin\Debug\PointOfRectangleBorder.pdb
+D:\всичко\SoftUni\CSharpLesson3\PointOfRectangleBorder\obj\Debug\PointOfRectangleBorder.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson3\PointOfRectangleBorder\obj\Debug\PointOfRectangleBorder.exe
+D:\всичко\SoftUni\CSharpLesson3\PointOfRectangleBorder\obj\Debug\PointOfRectangleBorder.pdb

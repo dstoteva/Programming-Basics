@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson7\NumbersInRange\bin\Debug\NumbersInRange.exe.config
+D:\всичко\SoftUni\CSharpLesson7\NumbersInRange\bin\Debug\NumbersInRange.exe
+D:\всичко\SoftUni\CSharpLesson7\NumbersInRange\bin\Debug\NumbersInRange.pdb
+D:\всичко\SoftUni\CSharpLesson7\NumbersInRange\obj\Debug\NumbersInRange.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson7\NumbersInRange\obj\Debug\NumbersInRange.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson7\NumbersInRange\obj\Debug\NumbersInRange.exe
+D:\всичко\SoftUni\CSharpLesson7\NumbersInRange\obj\Debug\NumbersInRange.pdb

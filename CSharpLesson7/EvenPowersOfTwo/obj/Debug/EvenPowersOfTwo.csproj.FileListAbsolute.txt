@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\CSharpLesson7\EvenPowersOfTwo\bin\Debug\EvenPowersOfTwo.exe.config
+D:\всичко\SoftUni\CSharpLesson7\EvenPowersOfTwo\bin\Debug\EvenPowersOfTwo.exe
+D:\всичко\SoftUni\CSharpLesson7\EvenPowersOfTwo\bin\Debug\EvenPowersOfTwo.pdb
+D:\всичко\SoftUni\CSharpLesson7\EvenPowersOfTwo\obj\Debug\EvenPowersOfTwo.csprojAssemblyReference.cache
+D:\всичко\SoftUni\CSharpLesson7\EvenPowersOfTwo\obj\Debug\EvenPowersOfTwo.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\CSharpLesson7\EvenPowersOfTwo\obj\Debug\EvenPowersOfTwo.exe
+D:\всичко\SoftUni\CSharpLesson7\EvenPowersOfTwo\obj\Debug\EvenPowersOfTwo.pdb

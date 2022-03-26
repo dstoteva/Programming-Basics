@@ -1,0 +1,7 @@
+D:\всико\SoftUni\CSharpLesson2\TailoringWorkshop\bin\Debug\TailoringWorkshop.exe.config
+D:\всико\SoftUni\CSharpLesson2\TailoringWorkshop\bin\Debug\TailoringWorkshop.exe
+D:\всико\SoftUni\CSharpLesson2\TailoringWorkshop\bin\Debug\TailoringWorkshop.pdb
+D:\всико\SoftUni\CSharpLesson2\TailoringWorkshop\obj\Debug\TailoringWorkshop.csprojResolveAssemblyReference.cache
+D:\всико\SoftUni\CSharpLesson2\TailoringWorkshop\obj\Debug\TailoringWorkshop.csproj.CoreCompileInputs.cache
+D:\всико\SoftUni\CSharpLesson2\TailoringWorkshop\obj\Debug\TailoringWorkshop.exe
+D:\всико\SoftUni\CSharpLesson2\TailoringWorkshop\obj\Debug\TailoringWorkshop.pdb

@@ -1,0 +1,5 @@
+C:\Users\home\Desktop\CSharpLesson2\SquareArea\bin\Debug\SquareArea.exe.config
+C:\Users\home\Desktop\CSharpLesson2\SquareArea\bin\Debug\SquareArea.exe
+C:\Users\home\Desktop\CSharpLesson2\SquareArea\bin\Debug\SquareArea.pdb
+C:\Users\home\Desktop\CSharpLesson2\SquareArea\obj\Debug\SquareArea.exe
+C:\Users\home\Desktop\CSharpLesson2\SquareArea\obj\Debug\SquareArea.pdb
